@@ -59,7 +59,11 @@ dependencies:
   envify: any
 
 dev_dependencies:
-  envify_generator: any
+  envify_generator:
+    git:
+      url: https://github.com/GZGavinZhao/envify
+      ref: updated
+      path: envify_generator
   build_runner: any
 ```
 
