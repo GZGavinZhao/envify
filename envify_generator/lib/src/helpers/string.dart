@@ -3,7 +3,7 @@
 /// Method to convert camelCases to snake_cases
 String camelCaseToSnakeCase(String input) {
   return input.replaceAllMapped(RegExp('([A-Z])|([0-9]+)'),
-      (match) => '_${match.group(0)!.toLowerCase()}');
+      (match) => '_${match.group(0)!.toLowerCase()}',);
 }
 
 /// Method that will returns
