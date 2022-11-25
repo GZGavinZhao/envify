@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/envify/melos_envify.iml" filepath="$PROJECT_DIR$/envify/melos_envify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/envify_generator/melos_envify_generator.iml" filepath="$PROJECT_DIR$/envify_generator/melos_envify_generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/melos_example.iml" filepath="$PROJECT_DIR$/example/melos_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_envify.iml" filepath="$PROJECT_DIR$/melos_envify.iml" />
+    </modules>
+  </component>
+</project>

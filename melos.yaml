@@ -1,0 +1,12 @@
+name: envify
+repository: https://github.com/GZGavinZhao/envify
+
+packages:
+  - "**"
+
+ignore:
+  - envify/example
+
+command:
+  bootstrap:
+    usePubspecOverrides: true
